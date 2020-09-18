@@ -24,3 +24,8 @@ npm run build
 | RubyFish DNS | https://www.rubyfish.cn/dns/solutions |
 | CleanBrowsing | https://cleanbrowsing.org/filters |
 | AdGuard DNS | https://adguard.com/en/adguard-dns/overview.html#instruction |
+
+
+## Reference
+
++ https://developer.apple.com/documentation/devicemanagement/dnssettings
