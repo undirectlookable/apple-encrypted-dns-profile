@@ -1,0 +1,11 @@
+{
+  "provider": "OpenDNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.opendns.com/dns-query"
+      ]
+    }
+  ]
+}

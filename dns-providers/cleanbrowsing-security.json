@@ -1,0 +1,21 @@
+{
+  "provider": "CleanBrowsing DNS Security Filter",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.cleanbrowsing.org/doh/security-filter/"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "security-filter-dns.cleanbrowsing.org",
+        "185.228.168.9",
+        "185.228.169.9",
+        "2a0d:2a00:1::2",
+        "2a0d:2a00:2::2"
+      ]
+    }
+  ]
+}

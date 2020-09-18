@@ -1,0 +1,22 @@
+{
+  "provider": "AliDNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://dns.alidns.com/dns-query",
+        "https://223.5.5.5/dns-query",
+        "https://223.6.6.6/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ]
+    }
+  ]
+}

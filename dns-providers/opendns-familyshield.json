@@ -1,0 +1,11 @@
+{
+  "provider": "OpenDNS FamilyShield",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.familyshield.opendns.com/dns-query"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "provider": "CleanBrowsing DNS Adult Filter",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.cleanbrowsing.org/doh/adult-filter/"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "adult-filter-dns.cleanbrowsing.org",
+        "185.228.168.10",
+        "185.228.169.11",
+        "2a0d:2a00:1::1",
+        "2a0d:2a00:2::1"
+      ]
+    }
+  ]
+}

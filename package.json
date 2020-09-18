@@ -1,0 +1,22 @@
+{
+  "name": "apple-encrypted-dns-profile",
+  "version": "0.1.0",
+  "description": "Generate DNS over HTTPS/TLS profile for iOS/iPadOS 14 and macOS Big Sur",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "npm run clean && node src/index.js",
+    "clean": "rimraf dist/*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "undirectlookable <undirectlookable@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undirectlookable/apple-encrypted-dns-profile.git"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2",
+    "xmlbuilder": "^15.1.1"
+  }
+}

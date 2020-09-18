@@ -1,0 +1,17 @@
+{
+  "provider": "AdGuard DNS Non-filtering",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://dns-unfiltered.adguard.com/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "dns-unfiltered.adguard.com"
+      ]
+    }
+  ]
+}

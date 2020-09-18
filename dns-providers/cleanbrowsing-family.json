@@ -1,0 +1,21 @@
+{
+  "provider": "CleanBrowsing DNS Family Filter",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.cleanbrowsing.org/doh/family-filter/"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "family-filter-dns.cleanbrowsing.org",
+        "185.228.168.168",
+        "185.228.169.168",
+        "2a0d:2a00:1::",
+        "2a0d:2a00:2::"
+      ]
+    }
+  ]
+}

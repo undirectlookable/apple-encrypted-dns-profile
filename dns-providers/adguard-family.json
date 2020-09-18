@@ -1,0 +1,17 @@
+{
+  "provider": "AdGuard DNS Family protection",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://dns-family.adguard.com/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "dns-family.adguard.com"
+      ]
+    }
+  ]
+}

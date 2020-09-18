@@ -1,0 +1,20 @@
+{
+  "provider": "Cloudflare Public DNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://cloudflare-dns.com/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    }
+  ]
+}

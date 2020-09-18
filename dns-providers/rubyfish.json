@@ -1,0 +1,17 @@
+{
+  "provider": "RubyFish DNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://rubyfish.cn/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "rubyfish.cn"
+      ]
+    }
+  ]
+}

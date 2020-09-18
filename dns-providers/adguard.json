@@ -1,0 +1,17 @@
+{
+  "provider": "AdGuard DNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://dns.adguard.com/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "dns.adguard.com"
+      ]
+    }
+  ]
+}
