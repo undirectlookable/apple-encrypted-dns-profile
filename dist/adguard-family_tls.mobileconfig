@@ -20,9 +20,7 @@
           <key>DNSProtocol</key>
           <string>TLS</string>
           <key>ServerName</key>
-          <array>
-            <string>dns-family.adguard.com</string>
-          </array>
+          <string>dns-family.adguard.com</string>
         </dict>
       </dict>
     </array>

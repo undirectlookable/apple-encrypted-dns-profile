@@ -20,12 +20,7 @@
           <key>DNSProtocol</key>
           <string>TLS</string>
           <key>ServerName</key>
-          <array>
-            <string>223.5.5.5</string>
-            <string>223.6.6.6</string>
-            <string>2400:3200::1</string>
-            <string>2400:3200:baba::1</string>
-          </array>
+          <string>223.5.5.5</string>
         </dict>
       </dict>
     </array>

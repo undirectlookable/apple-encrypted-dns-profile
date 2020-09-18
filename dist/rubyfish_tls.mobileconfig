@@ -20,9 +20,7 @@
           <key>DNSProtocol</key>
           <string>TLS</string>
           <key>ServerName</key>
-          <array>
-            <string>rubyfish.cn</string>
-          </array>
+          <string>rubyfish.cn</string>
         </dict>
       </dict>
     </array>

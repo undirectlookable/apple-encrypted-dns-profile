@@ -20,9 +20,7 @@
           <key>DNSProtocol</key>
           <string>HTTPS</string>
           <key>ServerURL</key>
-          <array>
-            <string>https://doh.opendns.com/dns-query</string>
-          </array>
+          <string>https://doh.opendns.com/dns-query</string>
         </dict>
       </dict>
     </array>

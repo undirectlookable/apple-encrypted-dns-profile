@@ -20,13 +20,7 @@
           <key>DNSProtocol</key>
           <string>TLS</string>
           <key>ServerName</key>
-          <array>
-            <string>adult-filter-dns.cleanbrowsing.org</string>
-            <string>185.228.168.10</string>
-            <string>185.228.169.11</string>
-            <string>2a0d:2a00:1::1</string>
-            <string>2a0d:2a00:2::1</string>
-          </array>
+          <string>adult-filter-dns.cleanbrowsing.org</string>
         </dict>
       </dict>
     </array>
