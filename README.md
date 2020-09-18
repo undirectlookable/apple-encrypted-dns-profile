@@ -2,7 +2,7 @@
 
 ## Installation
 
-Go to [`dist/`](tree/master/dist) folder, choose a `.mobileconfig` file, right click `RAW` button on the right top corner to donwload.
+Go to [`dist/`](./dist) folder, choose a `.mobileconfig` file, right click `RAW` button on the right top corner to donwload.
 
 ## Generate your own profile
 
