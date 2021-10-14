@@ -1,0 +1,17 @@
+{
+  "provider": "360 DNS",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.360.cn/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "dot.360.cn"
+      ]
+    }
+  ]
+}
