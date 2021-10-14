@@ -1,0 +1,17 @@
+{
+  "provider": "DNSPod",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.pub/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "dot.pub"
+      ]
+    }
+  ]
+}
