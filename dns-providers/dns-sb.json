@@ -1,0 +1,20 @@
+{
+  "provider": "DNS.SB",
+  "services": [
+    {
+      "protocol": "https",
+      "address": [
+        "https://doh.dns.sb/dns-query"
+      ]
+    },
+    {
+      "protocol": "tls",
+      "address": [
+        "185.222.222.222",
+        "45.11.45.11",
+        "2a09::",
+        "2a11::"
+      ]
+    }
+  ]
+}
